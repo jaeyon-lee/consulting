@@ -1,7 +1,5 @@
 ## 서정중학교 3학년 진로상담
-You can use the [editor on GitHub](https://github.com/jaeyon-lee/consulting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+서정중학교 고등학교 진로상담을 위한 페이지입니다.
 
 ### Markdown
 
