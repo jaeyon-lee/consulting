@@ -4,7 +4,7 @@
 ### 챗봇 사용 안내
 1. 우측 하단의 박스를 클릭하고 순차적으로 입력하면 됩니다.
 2. 챗봇이 인식하지 못 할 수 있으니 오타가 나지 않게 입력 부탁드려요.
-3. 교과중점 고등학교에 대한 정보를 알고 싶으면 '교과중점학교'라고 입력해보세요!
+3. 과학중점 고등학교에 대한 정보를 알고 싶으면 '과학중점'을 입력해보세요!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
