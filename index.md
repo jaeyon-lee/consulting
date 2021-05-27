@@ -1,27 +1,10 @@
 ## 서정중학교 3학년 진로상담
-서정중학교 고등학교 진로상담을 위한 페이지입니다.
+고등학교 진로상담을 위한 페이지입니다.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### 챗봇 사용 안내
+1. 우측 하단의 박스를 클릭하고 순차적으로 입력하면 됩니다.
+2. 챗봇이 인식하지 못 할 수 있으니 오타가 나지 않게 입력 부탁드려요.
+3. 교과중점 고등학교에 대한 정보를 알고 싶으면 '교과중점학교'라고 입력해보세요!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
