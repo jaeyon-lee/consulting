@@ -6,12 +6,3 @@
 2. 챗봇이 인식하지 못 할 수 있으니 오타가 나지 않게 입력 부탁드려요.
 3. 과학중점 고등학교에 대한 정보를 알고 싶으면 '과학중점'을 입력해보세요!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaeyon-lee/consulting/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
